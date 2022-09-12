@@ -17,7 +17,7 @@
 
 	if (lastd > 5)
 	{
-		printf("last digit of %d and is grater than 5\n", n, lastd);
+		printf("last digit of %d and is greater than 5\n", n, lastd);
 	}
 	else if (lastd == 0)
 	{
@@ -25,7 +25,7 @@
 	}
 	else if (lastd < 6 && lastd != 0)
 	{
-		printf("lastd digit of %d is %d and s less than 6 and not 0\n", n,lastd);
+		printf("lastd digit of %d is %d and s less than 6 and not 0\n", n, lastd);
 	}
 	return (0);
 }
